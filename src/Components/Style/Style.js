@@ -61,6 +61,7 @@ export const Button = styled.button`
 `
 export const H2= styled.h2`
   margin-right: 10px;
+  color:#f8a836;
 
    @media (max-width:500px) { 
     font-size: 1rem;
@@ -84,7 +85,7 @@ export const CatDog = styled.img`
     height: 72vh;
     @media (max-width:500px){
       width: 100%;
-      height: 69vh;
+      height: 65vh;
     }
 `
 
